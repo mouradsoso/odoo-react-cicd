@@ -88,7 +88,7 @@ sudo docker network create nginx-proxy
 16. Navigate to, [JIRE-TICKET-NUMBER].odoo.[YOUR DOMAIN] to see odoo interface, for example 432.odoo.mydomain.com
 18. create new database in odoo with name [TICKET-NUMBER], for example 432
 
-test
+
 
 
 
