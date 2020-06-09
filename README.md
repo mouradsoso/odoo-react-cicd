@@ -88,8 +88,5 @@ sudo docker network create nginx-proxy
 15. Navigate to, [JIRE-TICKET-NUMBER].react.[YOUR DOMAIN] to see react interface, for example 432.react.mydomain.com
 16. Navigate to, [JIRE-TICKET-NUMBER].odoo.[YOUR DOMAIN] to see odoo interface, for example 432.odoo.mydomain.com
 18. create new database in odoo with name [TICKET-NUMBER], for example 432
-
-
-
-tt
+1111
 
