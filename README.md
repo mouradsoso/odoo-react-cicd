@@ -4,6 +4,7 @@ In this repo I'm tryin to implement feature branch deployment, along with odoo/r
 ![How-does-it-work-Future-Processing](https://user-images.githubusercontent.com/991205/73578598-51607500-4480-11ea-9d9e-caf806cec8bc.png)
 
 # Used applications
+
 - Odoo
 - ReactJS
 - React Redux Store
