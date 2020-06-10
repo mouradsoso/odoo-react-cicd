@@ -90,5 +90,5 @@ sudo docker network create nginx-proxy
 18. create new database in odoo with name [TICKET-NUMBER], for example 432
 
 
-
+tt
 
